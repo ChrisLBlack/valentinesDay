@@ -1,0 +1,31 @@
+/* html{
+    background-color: #FFE1E6;
+} */
+
+/* body {
+    height: 100%;
+    width: 100%;
+} */
+
+.container {
+
+    font-family: 'Damion', cursive;
+    background-image: url("../assets/hearts.jpg") !important;
+    /* -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    background-repeat: repeat-y;
+    /* background-position: center top; */
+    margin: auto;
+    height: 100%
+
+}
+
+.banner{
+    padding: 5%;
+}
+
+.box{
+    font-weight: 700;
+    color: black;
+}
