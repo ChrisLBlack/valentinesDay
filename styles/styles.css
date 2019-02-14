@@ -11,13 +11,9 @@
 
     font-family: 'Damion', cursive;
     background-image: url("../assets/hearts.jpg") !important;
-    /* -webkit-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; */
     background-repeat: repeat-y;
-    /* background-position: center top; */
     margin: auto;
-    height: 100%
+    height: 220vw;
 
 }
 
